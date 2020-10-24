@@ -11,5 +11,6 @@ class LoginActivity : AppCompatActivity() {
 
         //This line
         Log.d("tmz","ss")
+        Log.d("tmljlkz","hkjhk")
     }
 }
